@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/durgaprasad0555/nameit/static/css/main.eea6565c.css",
+    "main.js": "/durgaprasad0555/nameit/static/js/main.527bca90.js",
+    "index.html": "/durgaprasad0555/nameit/index.html",
+    "main.eea6565c.css.map": "/durgaprasad0555/nameit/static/css/main.eea6565c.css.map",
+    "main.527bca90.js.map": "/durgaprasad0555/nameit/static/js/main.527bca90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea6565c.css",
+    "static/js/main.527bca90.js"
+  ]
+}
