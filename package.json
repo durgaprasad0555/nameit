@@ -2,8 +2,8 @@
   "name": "name-it",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://durgaprasad0555.github.io/name-it/",
-  
+  "homepage": "https://github.com/durgaprasad0555/nameit/https://github.com/durgaprasad0555/nameit",
+
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.17.0",
